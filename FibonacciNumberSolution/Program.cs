@@ -1,6 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-static long CalFibonacci(int n, long[]? resultCache = null)
+﻿static long CalFibonacci(int n, long[]? resultCache = null)
 {
     if (resultCache == null)
     {
